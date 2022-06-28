@@ -7,7 +7,7 @@
 ## GitHub Pages
  Can use [editor on GitHub](https://github.com/ttray310/reading-notes/edit/main/README.md) which contains all the contents of the file.
  
- '''markdown
+
  
  # Header 1
  ## Header 2
