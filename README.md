@@ -18,3 +18,5 @@ Hello all, this is my GitHub portfolio: [Ttray310 GitHub Portfolio](https://gith
 * [Class 2 Coder's Computer](class2.md)
 * [Class 3 GitHub Intro](class3.md)
 * [Class 4 Structure in HTML](class4.md)
+* [Class 5 CSS Basics](class5.md)
+* [Class 6 JavaScript Basics](class6.md)
