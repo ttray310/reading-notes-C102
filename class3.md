@@ -28,3 +28,7 @@
         - Committing all changes
         - Pushing - updates to desired location updates to files
         - Stashing Changes: not ready to commit but NOT lose the changes
+
+#### Clone
+
+        - to close from GitHub, want to "git clone *PASTE*"
