@@ -20,3 +20,5 @@ Hello all, this is my GitHub portfolio: [Ttray310 GitHub Portfolio](https://gith
 * [Class 4 Structure in HTML](class4.md)
 * [Class 5 CSS Basics](class5.md)
 * [Class 6 JavaScript Basics](class6.md)
+* [Class 7 JavaScript Programming](class7.md)
+* [Class 8 JavaScript Operators & Loops](class8.md)
