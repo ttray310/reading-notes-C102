@@ -12,7 +12,7 @@ Hello all, this is my GitHub portfolio: [Ttray310 GitHub Portfolio](https://gith
 * Try to remember every one started at square one
 * Focus on small wins, they win the war
 
-#### Class Notes by Class numbers
+#### 102 Class Notes by Class numbers
 
 * [Class 1 Notes about Markdown](class1.md)
 * [Class 2 Coder's Computer](class2.md)
@@ -22,3 +22,5 @@ Hello all, this is my GitHub portfolio: [Ttray310 GitHub Portfolio](https://gith
 * [Class 6 JavaScript Basics](class6.md)
 * [Class 7 JavaScript Programming](class7.md)
 * [Class 8 JavaScript Operators & Loops](class8.md)
+
+#### 201 Class Notes by Class numbers
